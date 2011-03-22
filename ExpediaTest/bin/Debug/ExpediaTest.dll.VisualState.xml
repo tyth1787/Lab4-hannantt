@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1043]C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.dll</TopNode>
+  <SelectedNode>[0-1044]ExpediaTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1043]C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1044]ExpediaTest" Expanded="true" />
+    <Node UniqueName="[0-1007]ExpediaTest.CarTest" Expanded="true" />
+    <Node UniqueName="[0-1025]ExpediaTest.HotelTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,11 @@
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.dll
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.pdb
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\Expedia.dll
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\Expedia.pdb
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\Rhino.Mocks.xml
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\obj\Debug\ExpediaTest.dll
+C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\obj\Debug\ExpediaTest.pdb

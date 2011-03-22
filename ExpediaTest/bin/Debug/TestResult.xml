@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.dll" total="40" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-03-21" time="20:25:22">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.3615" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.9\bin\net-2.0" machine-name="HANNANTT-1" user="localmgr" user-domain="HANNANTT-1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\localmgr\Desktop\Lab4-AdvancedUnitTesting-Code\ExpediaTest\bin\Debug\ExpediaTest.dll" executed="True" result="Success" success="True" time="1.375" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ExpediaTest" executed="True" result="Success" success="True" time="1.359" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="BookingTest" executed="True" result="Success" success="True" time="0.047" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.BookingTest.TestThatObjectsAreBookings" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="CarTest" executed="True" result="Success" success="True" time="1.125" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.CarTest.TestCarLocation" executed="True" result="Success" success="True" time="1.047" asserts="2" />
+              <test-case name="ExpediaTest.CarTest.TestObjectMother" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarGetsMilesFromDatabase" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarHasCorrectBasePriceForFiveDays" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarHasCorrectBasePriceForSevenDays" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarHasCorrectBasePriceForTenDays" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.CarTest.TestThatCarThrowsOnBadLength" executed="True" result="Success" success="True" time="0.063" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="DiscountTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.DiscountTest.TestThatDiscountInitializes" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="FlightTest" executed="True" result="Success" success="True" time="0.109" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightDoesGetNumberOfPassengers" executed="True" result="Success" success="True" time="0.063" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightHasCorrectBasePriceForFiveDayFlight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightHasCorrectBasePriceForNextDayFlight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightHasCorrectBasePriceForSameDayFlight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightHasCorrectMilesAfterConstruction" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightThrowsOnBadMiles" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="ExpediaTest.FlightTest.TestThatFlightThrowsOnInvertedDates" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="HotelTest" executed="True" result="Success" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelDoesGetRoomCountFromDatabase" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelDoesGetRoomOccupantFromTheDatabase" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelHasCorrectBasePriceForOneDayStay" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelHasCorrectBasePriceForTenDaysStay" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelHasCorrectBasePriceForTwoDayStay" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.HotelTest.TestThatHotelThrowsOnBadLength" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ServiceLocatorTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.ServiceLocatorTest.TestThatServiceLocatorAvailableCarsReturnsExpectedCars" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="ExpediaTest.ServiceLocatorTest.TestThatServiceLocatorAvailableDiscountsReturnsExpectedDiscounts" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="ExpediaTest.ServiceLocatorTest.TestThatServiceLocatorAvailableFlightsReturnsExpectedFlights" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+              <test-case name="ExpediaTest.ServiceLocatorTest.TestThatServiceLocatorInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="UserTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-case name="ExpediaTest.UserTest.TestThatUserCanBookAHotalAndACar" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserCanBookAOnlyFlight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserCanBookEverything" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserDoesRemoveCarFromServiceLocatorWhenBooked" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserDoesRemoveFlightFromServiceLocatorWhenBooked" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserHasCorrectNumberOfFrequentFlyerMilesAfterOneFlight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserHasFrequentFlierMilesAfterBooking" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserHasZeroFrequentFlierMilesOnInit" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserTotalCostIsCorrect" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="ExpediaTest.UserTest.TestThatUserTotalCostIsCorrectWhenMoreThanFlights" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
